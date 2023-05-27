@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container-branco{
+    text-align: center;
+    padding: 20px;
+}
+
+.texto-1{
+    font-size: 48px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.texto-2{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.texto-3{
+    font-size: 28px;
+    font-weight: 300;
+    padding: 30px;
+}
+
+.mao{
+    cursor: pointer;
+}
+
+.rodape{
+   height: 60px;
+   background-color: black; 
+}
+
+
+.conteudo-rodape span{
+    color: white;
+}

@@ -18,7 +18,7 @@ function Header() {
                 <li><Link to="/Produto">Produto</Link></li>
             </ul>
             <div className="carrinho">
-                <img src={carrinho}   />
+                <img src={carrinho}    />
             </div>
         </div>
 

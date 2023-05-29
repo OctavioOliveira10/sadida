@@ -9,7 +9,7 @@ function Header() {
         <div className="header-home">
 
             <div className="logo">
-                <img src={logo} />
+                <img src={logo}   />
             </div>
             <ul>
                 <li><Link to="/sobre">Sobre</Link></li>
@@ -18,7 +18,7 @@ function Header() {
                 <li><Link to="/Produto">Produto</Link></li>
             </ul>
             <div className="carrinho">
-                <img src={carrinho} />
+                <img src={carrinho}   />
             </div>
         </div>
 

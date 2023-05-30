@@ -1,4 +1,4 @@
-import tenis1 from "/img/Tenis-1.jpg";
+import tenis1 from "../../assets/img/Tenis-1.png";
 import "../Produto/estilo.css"
 
 function Produto() {
@@ -9,6 +9,9 @@ function Produto() {
             </div>
 
             <div className="container-produtos">
+                <div className="img-esquerda-1">
+                    <img src={tenis1} alt="" />
+                </div>
                 <div className="produto-esquerda-1">
                     <div className="descricao-esquerda-1">
                         <span>Tênis Sadida</span>
@@ -25,7 +28,6 @@ function Produto() {
 
                 <div className="produto-centro-1">
                     <div className="descricao-centro-1">
-                        <img src={tenis1} alt="" />
                         <span>Tênis Sadida</span>
                     </div>
 

@@ -9,7 +9,9 @@ function Header() {
         <div className="header-home">
 
             <div className="logo">
+                <Link rel="stylesheet" to="/home">
                 <img src={logo}   />
+                </Link>
             </div>
             <ul>
                 <li><Link to="/sobre">Sobre</Link></li>

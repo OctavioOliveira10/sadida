@@ -12,3 +12,8 @@
 .container-produtos{
     display: flex;
 }
+
+.container-produtos img{
+    display: flex;
+    height: 200px;
+}

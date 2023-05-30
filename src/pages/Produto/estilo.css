@@ -1,0 +1,15 @@
+
+
+.melhores-calcados{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.melhores-calcados h1 {
+    font-weight: bold;
+}
+
+.container-produtos{
+    display: flex;
+    gap: 80px;
+}

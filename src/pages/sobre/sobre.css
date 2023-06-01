@@ -1,0 +1,51 @@
+.sobre{
+    background-color: black;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sobre p{
+    color: #eeeeee;
+    font-size: 20px;
+
+    max-width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 1px 1px #000000;
+  
+}
+.sobre h1{
+    background-color: #fff;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: #000000;
+    font-weight: 900;
+    padding-bottom: 20px;
+    
+}
+.titulo{
+    width: 1900px;
+    background-color: #fff;
+    height: 45px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    
+    
+}

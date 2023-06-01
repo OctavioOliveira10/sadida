@@ -9,7 +9,7 @@ function Header() {
         <div className="header-home">
 
             <div className="logo">
-                <Link rel="stylesheet" to="/home">
+                <Link rel="stylesheet" to="/">
                 <img src={logo}   />
                 </Link>
             </div>

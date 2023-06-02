@@ -1,9 +1,9 @@
-import tenis1 from "../../assets/img/Tenis-1.png";
-import tenis2 from "../../assets/img/Tenis-2.png";
-import tenis3 from "../../assets/img/Tenis-3.png";
-import tenis4 from "../../assets/img/Tenis-4.png";
-import tenis5 from "../../assets/img/Tenis-5.png";
-import tenis6 from "../../assets/img/Tenis-6.png";
+import tenis1 from "../../assets/img/tenis-1.png";
+import tenis2 from "../../assets/img/tenis-2.png";
+import tenis3 from "../../assets/img/tenis-3.png";
+import tenis4 from "../../assets/img/tenis-4.png";
+import tenis5 from "../../assets/img/tenis-5.png";
+import tenis6 from "../../assets/img/tenis-6.png";
 import bannerproduto from "../../assets/img/banner-produto.png";
 import "../Produto/estilo.css"
 

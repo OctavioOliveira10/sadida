@@ -10,7 +10,7 @@
     background-color: black;
     display: flex;
     align-items: center;
-
+    margin-bottom: 190px;
     justify-content: space-around;
 }
 
@@ -24,11 +24,13 @@
     align-items: center;
     justify-content: space-around;
     margin: 50px 10px;
+    
 }
 
 .container-geral div img {
     width: 50%;
     height: 50%;
+    margin-bottom: 100px;
 }
 
 .segue{
@@ -47,3 +49,4 @@
 .insta{
     font-size: 50px;
 }
+
